@@ -2,7 +2,6 @@ import speech_recognition as spr
 from googletrans import Translator
 from gtts import gTTS
 from playsound import playsound
-#import os
 
 
 # Creating Recogniser() class object
